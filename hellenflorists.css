@@ -4,8 +4,14 @@
     background-repeat: no-repeat;
 }
 #flowers{
-    background-image: url(blue.jpg);
+    background-image: url(flowers\ backie.avif);
     background-size: cover;
     background-repeat: no-repeat;
+
+}
+#about{
+    background-image: url(purple.avif);
+}
+.card{
 
 }

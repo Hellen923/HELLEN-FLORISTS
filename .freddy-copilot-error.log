@@ -1,0 +1,31 @@
+
+      --------------------------------------
+      Error Stack:: "AxiosError: Request failed with status code 401\n    at Le (c:\\Users\\THINKPAD\\.vscode\\extensions\\freshworksmarketplace.freddy-copilot-2.2.14\\dist\\extension.js:2:162526)\n    at IncomingMessage.<anonymous> (c:\\Users\\THINKPAD\\.vscode\\extensions\\freshworksmarketplace.freddy-copilot-2.2.14\\dist\\extension.js:2:174396)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)"
+      Error Message:: "Request failed with status code 401"
+      Error Name:: "AxiosError"
+      Request ID:: 0cb65a70-fe92-4eb0-9219-df3caae325db
+      
+      Env:: release
+      API Route:: /api/v1/copilot/migration_scope
+      API Response Message:: Invalid token
+      API Response Error Type:: unauthorized
+
+      Timestamp:: Thu, 13 Feb 2025 05:28:25 GMT
+      Extension Version:: 2.2.14
+      --------------------------------------
+    
+      --------------------------------------
+      Error Stack:: "Error: Please set up the FDK path to proceed, you can set up the path from settings.\n    at a.FdkHelper.getfdkPathFromConfig (c:\\Users\\THINKPAD\\.vscode\\extensions\\freshworksmarketplace.freddy-copilot-2.2.14\\dist\\extension.js:2:78787)\n    at a.FdkHelper.runInBackground (c:\\Users\\THINKPAD\\.vscode\\extensions\\freshworksmarketplace.freddy-copilot-2.2.14\\dist\\extension.js:2:80122)\n    at a.FdkHelper.getFdkVersion (c:\\Users\\THINKPAD\\.vscode\\extensions\\freshworksmarketplace.freddy-copilot-2.2.14\\dist\\extension.js:2:75937)\n    at m.getFdkVersion (c:\\Users\\THINKPAD\\.vscode\\extensions\\freshworksmarketplace.freddy-copilot-2.2.14\\dist\\extension.js:2:135595)\n    at m.resolveWebviewView (c:\\Users\\THINKPAD\\.vscode\\extensions\\freshworksmarketplace.freddy-copilot-2.2.14\\dist\\extension.js:2:116769)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at pz.$resolveWebviewView (file:///c:/Users/THINKPAD/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:24585)"
+      Error Message:: "Please set up the FDK path to proceed, you can set up the path from settings."
+      Error Name:: "Error"
+      
+      
+      
+      
+      
+      
+
+      Timestamp:: Thu, 13 Feb 2025 05:28:25 GMT
+      Extension Version:: 2.2.14
+      --------------------------------------
+    
